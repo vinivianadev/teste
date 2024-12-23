@@ -21,6 +21,7 @@ O código-fonte da biblioteca encontra-se hospedado no GitHub.
 
 # Funcionalidades e Demonstração da Aplicação
 
+O projeto trata-se de um jogo com uma animação simultânea de 3 veículos controlados pelos direcionais. O ambiente possui diferentes iluminações e obstáculos que geram sombra, caso os carros colidam nesses obstáculos o sistema para e lança um alerta com uma mensagem para reiniciar o jogo.
 
 
 
@@ -31,3 +32,8 @@ O código-fonte da biblioteca encontra-se hospedado no GitHub.
 - `Vinícius Alexandre`
 
 # Referências
+- https://stock.adobe.com/br/search/images?k=asphalt
+- https://threejs.org/docs/#manual/en/introduction/Installation
+- https://free3d.com/3d-model/humvee-vehicle-49947.html
+- https://free3d.com/3d-model/koenigsegg-agera-72095.html
+- https://free3d.com/3d-model/free-car-715606.html
