@@ -21,7 +21,7 @@ O código-fonte da biblioteca encontra-se hospedado no GitHub.
 
 # Funcionalidades e Demonstração da Aplicação
 
-O projeto trata-se de um jogo com uma animação simultânea de 3 veículos controlados pelos direcionais. O ambiente possui diferentes iluminações e obstáculos que geram sombra, caso os carros colidam nesses obstáculos o sistema para e lança um alerta com uma mensagem para reiniciar o jogo.
+O projeto trata-se de um jogo com uma animação simultânea de 3 veículos controlados pelos direcionais. O ambiente possui diferentes iluminações e obstáculos que geram sombra, caso os carros colidam nesses obstáculos o sistema para e lança um alerta com uma mensagem para reiniciar o jogo. Para a demonstração da aplicação há um video anexado no repositório.
 
 
 
