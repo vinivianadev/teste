@@ -10,9 +10,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-
-
-  
+* [Referências](#referências)
 
 # Descrição do Projeto
 
@@ -31,3 +29,5 @@ O código-fonte da biblioteca encontra-se hospedado no GitHub.
 - `Marco Antonio`
 - `Mateus Custódio`
 - `Vinícius Alexandre`
+
+# Referências
