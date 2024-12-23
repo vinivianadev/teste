@@ -6,12 +6,22 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
 
   
+
+# Descrição do Projeto
+
+Neste projeto, buscamos utilizar das funcionalidades do Three.js, uma biblioteca JavaScript que permite a criação e exibição de gráficos 3D animados em navegadores web. O Three.js é um motor WebGL que usa APIs e funções para desenhar cenas 3D no navegador
+
+# Funcionalidades e Demonstração da Aplicação
+
+# Pessoas Desenvolvedoras do Projeto
+
+- `Marco Antonio`
+- `Mateus Custódio`
+- `Vinícius Alexandre`
