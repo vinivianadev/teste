@@ -16,9 +16,15 @@
 
 # Descrição do Projeto
 
-Neste projeto, buscamos utilizar das funcionalidades do Three.js, uma biblioteca JavaScript que permite a criação e exibição de gráficos 3D animados em navegadores web. O Three.js é um motor WebGL que usa APIs e funções para desenhar cenas 3D no navegador
+Neste projeto buscamos utilizar das funcionalidades do Three.js, uma biblioteca JavaScript que permite a criação e exibição de gráficos 3D animados em navegadores web. Ela
+fornece funções e APIs para desenhar cenas 3D, que utilizamos para construir um ambiente (no caso, um plano) que possui vários objetos, tanto estáticos (obstáculos) quanto dinâmicos (carros). 
+
+O código-fonte da biblioteca encontra-se hospedado no GitHub.
 
 # Funcionalidades e Demonstração da Aplicação
+
+
+
 
 # Pessoas Desenvolvedoras do Projeto
 
